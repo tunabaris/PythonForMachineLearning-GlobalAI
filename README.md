@@ -4,3 +4,4 @@
 - Data Preparing
 - Data processing 
 - Numpy
+-Data Visualiziation
